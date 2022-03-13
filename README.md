@@ -1,6 +1,8 @@
 # BookSource
 
-香色闺阁的书源搬运合集，在其基础上做了新增和修复，后续考虑剥离成单独源文件。
+香色闺阁的书源搬运合集，在其基础上做了新增和修复，后续考虑剥离成单独源文件。  
+
+搬运整合源：  https://github.com/TinhoXu/BookSource/raw/main/sourceModelList.xbs  
 
 PS：
 1. 书源来源于网络，如有侵权请联系删除
